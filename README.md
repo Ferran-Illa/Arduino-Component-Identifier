@@ -13,7 +13,7 @@ Currently supports basic electronic components:
 - BJT
 - MOSFET
 
-# General Program Structure
+# General Header Structure
 
 *config.h* stores basic constants and callibrated/adjusted values (component values, pins, ...).
 
