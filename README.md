@@ -6,7 +6,7 @@ To upload the program to the Arduino board, set the folder MultiTesterLib into t
 This code is designed for the **ATMEGA328PB** Microcontroller. Inspired on the (much better) code by gojimmy pi - *https://github.com/gojimmypi/ComponentTester*
 ## Supported Components:
 Currently supports basic electronic components:
-- Resistances $250\Omega - 5M\Omega$ with 5% accuracy. Satisfactory measures down to $1\Omega$.
+- Resistances $150\Omega - 5M\Omega$ with 5% accuracy. Satisfactory measures down to $1\Omega$.
 - Capacitors $50nF - 1mF$. 10% accuracy. Big Capacitors take a while.
 - Inductances $50\mu H - 5mH$. 40% accuracy.
 - Diodes
